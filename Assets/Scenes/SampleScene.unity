@@ -398,6 +398,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ArticleCard2
       objectReference: {fileID: 0}
+    - target: {fileID: 5863080784580112870, guid: c4fc7e9a63b4d2f4e8006df9a630e3da, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6151588628846756553, guid: c4fc7e9a63b4d2f4e8006df9a630e3da, type: 3}
       propertyPath: m_fontSize
       value: 34
@@ -655,6 +659,10 @@ PrefabInstance:
     - target: {fileID: 5863080784580112870, guid: c4fc7e9a63b4d2f4e8006df9a630e3da, type: 3}
       propertyPath: m_Name
       value: ArticleCard3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5863080784580112870, guid: c4fc7e9a63b4d2f4e8006df9a630e3da, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6151588628846756553, guid: c4fc7e9a63b4d2f4e8006df9a630e3da, type: 3}
       propertyPath: m_fontSize
@@ -2092,6 +2100,10 @@ PrefabInstance:
     - target: {fileID: 5863080784580112870, guid: c4fc7e9a63b4d2f4e8006df9a630e3da, type: 3}
       propertyPath: m_Name
       value: ArticleCard1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5863080784580112870, guid: c4fc7e9a63b4d2f4e8006df9a630e3da, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6151588628846756553, guid: c4fc7e9a63b4d2f4e8006df9a630e3da, type: 3}
       propertyPath: m_fontSize
